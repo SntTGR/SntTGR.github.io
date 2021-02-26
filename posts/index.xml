@@ -1,298 +1,331 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on SntTGR's blog</title><link>https://snttgr.github.io/posts/</link><description>SntTGR's blog (Posts)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 26 Feb 2021 03:34:59 -0300</lastBuildDate><atom:link href="https://snttgr.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Post #2</title><link>https://snttgr.github.io/posts/my-second-post/</link><pubDate>Fri, 26 Feb 2021 03:34:59 -0300</pubDate><guid>https://snttgr.github.io/posts/my-second-post/</guid><description>&lt;p>This is a test text&lt;/p>
-&lt;p>after summary&lt;/p>
-&lt;div class="highlight">&lt;pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4">&lt;code class="language-html" data-lang="html">&lt;span style="color:#75715e">&amp;lt;!DOCTYPE html&amp;gt;&lt;/span>
-&amp;lt;&lt;span style="color:#f92672">html&lt;/span> &lt;span style="color:#a6e22e">lang&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;en&amp;#34;&lt;/span>&amp;gt;
-&amp;lt;&lt;span style="color:#f92672">head&lt;/span>&amp;gt;
-&amp;lt;&lt;span style="color:#f92672">meta&lt;/span> &lt;span style="color:#a6e22e">charset&lt;/span>&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;UTF-8&amp;#34;&lt;/span>&amp;gt;
-&amp;lt;&lt;span style="color:#f92672">title&lt;/span>&amp;gt;Example HTML5 Document&amp;lt;/&lt;span style="color:#f92672">title&lt;/span>&amp;gt;
-&amp;lt;/&lt;span style="color:#f92672">head&lt;/span>&amp;gt;
-&amp;lt;&lt;span style="color:#f92672">body&lt;/span>&amp;gt;
-&amp;lt;&lt;span style="color:#f92672">p&lt;/span>&amp;gt;Test&amp;lt;/&lt;span style="color:#f92672">p&lt;/span>&amp;gt;
-&amp;lt;/&lt;span style="color:#f92672">body&lt;/span>&amp;gt;
-&amp;lt;/&lt;span style="color:#f92672">html&lt;/span>&amp;gt;
-&lt;/code>&lt;/pre>&lt;/div>&lt;pre>&lt;code>test of normal block
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on SntTGR&#39;s blog</title>
+    <link>https://snttgr.github.io/posts/</link>
+    <description>SntTGR&#39;s blog (Posts)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Feb 2021 03:34:59 -0300</lastBuildDate>
+    
+    <atom:link href="https://snttgr.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Post #2</title>
+      <link>https://snttgr.github.io/posts/my-second-post/</link>
+      <pubDate>Fri, 26 Feb 2021 03:34:59 -0300</pubDate>
+      
+      <guid>https://snttgr.github.io/posts/my-second-post/</guid>
+      <description>&lt;p&gt;This is a test text&lt;/p&gt;
+&lt;p&gt;after summary&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/span&gt;
+&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;html&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;lang&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;en&amp;#34;&lt;/span&gt;&amp;gt;
+&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;head&lt;/span&gt;&amp;gt;
+  &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;meta&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;charset&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;UTF-8&amp;#34;&lt;/span&gt;&amp;gt;
+  &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;title&lt;/span&gt;&amp;gt;Example HTML5 Document&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;title&lt;/span&gt;&amp;gt;
+&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;head&lt;/span&gt;&amp;gt;
+&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;body&lt;/span&gt;&amp;gt;
+  &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt;&amp;gt;Test&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt;&amp;gt;
+&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;body&lt;/span&gt;&amp;gt;
+&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;html&lt;/span&gt;&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;pre&gt;&lt;code&gt;test of normal block
 please look good thx
-&lt;/code>&lt;/pre>&lt;p>this is a single block &lt;code>ele&lt;/code> peropo&lt;/p>
-&lt;p>this is another single &lt;code>block&lt;/code> but weirder&lt;/p>
-&lt;p>test n two&lt;/p></description></item><item><title>First Post Test</title><link>https://snttgr.github.io/posts/firstpost-test/</link><pubDate>Thu, 25 Feb 2021 19:43:59 -0300</pubDate><guid>https://snttgr.github.io/posts/firstpost-test/</guid><description>&lt;h1 id="markdown-syntax">Markdown: Syntax&lt;/h1>
-&lt;ul>
-&lt;li>&lt;a href="#overview">Overview&lt;/a>
-&lt;ul>
-&lt;li>&lt;a href="#philosophy">Philosophy&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#html">Inline HTML&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#autoescape">Automatic Escaping for Special Characters&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&lt;a href="#block">Block Elements&lt;/a>
-&lt;ul>
-&lt;li>&lt;a href="#p">Paragraphs and Line Breaks&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#header">Headers&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#blockquote">Blockquotes&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#list">Lists&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#precode">Code Blocks&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#hr">Horizontal Rules&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&lt;a href="#span">Span Elements&lt;/a>
-&lt;ul>
-&lt;li>&lt;a href="#link">Links&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#em">Emphasis&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#code">Code&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#img">Images&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>&lt;a href="#misc">Miscellaneous&lt;/a>
-&lt;ul>
-&lt;li>&lt;a href="#backslash">Backslash Escapes&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#autolink">Automatic Links&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>Note:&lt;/strong> This document is itself written using Markdown; you
-can &lt;a href="https://snttgr.github.io/projects/markdown/syntax.text">see the source for it by adding &amp;lsquo;.text&amp;rsquo; to the URL&lt;/a>.&lt;/p>
-&lt;hr>
-&lt;h2 id="overview">Overview&lt;/h2>
-&lt;h3 id="philosophy">Philosophy&lt;/h3>
-&lt;p>Markdown is intended to be as easy-to-read and easy-to-write as is feasible.&lt;/p>
-&lt;p>Readability, however, is emphasized above all else. A Markdown-formatted
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;this is a single block &lt;code&gt;ele&lt;/code&gt; peropo&lt;/p&gt;
+&lt;p&gt;this is another single &lt;code&gt;block&lt;/code&gt; but weirder&lt;/p&gt;
+&lt;p&gt;test n two&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>First Post Test</title>
+      <link>https://snttgr.github.io/posts/firstpost-test/</link>
+      <pubDate>Thu, 25 Feb 2021 19:43:59 -0300</pubDate>
+      
+      <guid>https://snttgr.github.io/posts/firstpost-test/</guid>
+      <description>&lt;h1 id=&#34;markdown-syntax&#34;&gt;Markdown: Syntax&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#overview&#34;&gt;Overview&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#philosophy&#34;&gt;Philosophy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#html&#34;&gt;Inline HTML&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#autoescape&#34;&gt;Automatic Escaping for Special Characters&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#block&#34;&gt;Block Elements&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#p&#34;&gt;Paragraphs and Line Breaks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#header&#34;&gt;Headers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#blockquote&#34;&gt;Blockquotes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#list&#34;&gt;Lists&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#precode&#34;&gt;Code Blocks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#hr&#34;&gt;Horizontal Rules&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#span&#34;&gt;Span Elements&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#link&#34;&gt;Links&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#em&#34;&gt;Emphasis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#code&#34;&gt;Code&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#img&#34;&gt;Images&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#misc&#34;&gt;Miscellaneous&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#backslash&#34;&gt;Backslash Escapes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;#autolink&#34;&gt;Automatic Links&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This document is itself written using Markdown; you
+can &lt;a href=&#34;https://snttgr.github.io/projects/markdown/syntax.text&#34;&gt;see the source for it by adding &amp;lsquo;.text&amp;rsquo; to the URL&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;h3 id=&#34;philosophy&#34;&gt;Philosophy&lt;/h3&gt;
+&lt;p&gt;Markdown is intended to be as easy-to-read and easy-to-write as is feasible.&lt;/p&gt;
+&lt;p&gt;Readability, however, is emphasized above all else. A Markdown-formatted
 document should be publishable as-is, as plain text, without looking
 like it&amp;rsquo;s been marked up with tags or formatting instructions. While
 Markdown&amp;rsquo;s syntax has been influenced by several existing text-to-HTML
-filters &amp;ndash; including &lt;a href="http://docutils.sourceforge.net/mirror/setext.html">Setext&lt;/a>, &lt;a href="http://www.aaronsw.com/2002/atx/">atx&lt;/a>, &lt;a href="http://textism.com/tools/textile/">Textile&lt;/a>, &lt;a href="http://docutils.sourceforge.net/rst.html">reStructuredText&lt;/a>,
-&lt;a href="http://www.triptico.com/software/grutatxt.html">Grutatext&lt;/a>, and &lt;a href="http://ettext.taint.org/doc/">EtText&lt;/a> &amp;ndash; the single biggest source of
-inspiration for Markdown&amp;rsquo;s syntax is the format of plain text email.&lt;/p>
-&lt;h2 id="block-elements">Block Elements&lt;/h2>
-&lt;h3 id="paragraphs-and-line-breaks">Paragraphs and Line Breaks&lt;/h3>
-&lt;p>A paragraph is simply one or more consecutive lines of text, separated
+filters &amp;ndash; including &lt;a href=&#34;http://docutils.sourceforge.net/mirror/setext.html&#34;&gt;Setext&lt;/a&gt;, &lt;a href=&#34;http://www.aaronsw.com/2002/atx/&#34;&gt;atx&lt;/a&gt;, &lt;a href=&#34;http://textism.com/tools/textile/&#34;&gt;Textile&lt;/a&gt;, &lt;a href=&#34;http://docutils.sourceforge.net/rst.html&#34;&gt;reStructuredText&lt;/a&gt;,
+&lt;a href=&#34;http://www.triptico.com/software/grutatxt.html&#34;&gt;Grutatext&lt;/a&gt;, and &lt;a href=&#34;http://ettext.taint.org/doc/&#34;&gt;EtText&lt;/a&gt; &amp;ndash; the single biggest source of
+inspiration for Markdown&amp;rsquo;s syntax is the format of plain text email.&lt;/p&gt;
+&lt;h2 id=&#34;block-elements&#34;&gt;Block Elements&lt;/h2&gt;
+&lt;h3 id=&#34;paragraphs-and-line-breaks&#34;&gt;Paragraphs and Line Breaks&lt;/h3&gt;
+&lt;p&gt;A paragraph is simply one or more consecutive lines of text, separated
 by one or more blank lines. (A blank line is any line that looks like a
 blank line &amp;ndash; a line containing nothing but spaces or tabs is considered
-blank.) Normal paragraphs should not be indented with spaces or tabs.&lt;/p>
-&lt;p>The implication of the &amp;ldquo;one or more consecutive lines of text&amp;rdquo; rule is
+blank.) Normal paragraphs should not be indented with spaces or tabs.&lt;/p&gt;
+&lt;p&gt;The implication of the &amp;ldquo;one or more consecutive lines of text&amp;rdquo; rule is
 that Markdown supports &amp;ldquo;hard-wrapped&amp;rdquo; text paragraphs. This differs
 significantly from most other text-to-HTML formatters (including Movable
 Type&amp;rsquo;s &amp;ldquo;Convert Line Breaks&amp;rdquo; option) which translate every line break
-character in a paragraph into a &lt;code>&amp;lt;br /&amp;gt;&lt;/code> tag.&lt;/p>
-&lt;p>When you &lt;em>do&lt;/em> want to insert a &lt;code>&amp;lt;br /&amp;gt;&lt;/code> break tag using Markdown, you
-end a line with two or more spaces, then type return.&lt;/p>
-&lt;h3 id="headers">Headers&lt;/h3>
-&lt;p>Markdown supports two styles of headers, [Setext] [1] and [atx] [2].&lt;/p>
-&lt;p>Optionally, you may &amp;ldquo;close&amp;rdquo; atx-style headers. This is purely
+character in a paragraph into a &lt;code&gt;&amp;lt;br /&amp;gt;&lt;/code&gt; tag.&lt;/p&gt;
+&lt;p&gt;When you &lt;em&gt;do&lt;/em&gt; want to insert a &lt;code&gt;&amp;lt;br /&amp;gt;&lt;/code&gt; break tag using Markdown, you
+end a line with two or more spaces, then type return.&lt;/p&gt;
+&lt;h3 id=&#34;headers&#34;&gt;Headers&lt;/h3&gt;
+&lt;p&gt;Markdown supports two styles of headers, [Setext] [1] and [atx] [2].&lt;/p&gt;
+&lt;p&gt;Optionally, you may &amp;ldquo;close&amp;rdquo; atx-style headers. This is purely
 cosmetic &amp;ndash; you can use this if you think it looks better. The
 closing hashes don&amp;rsquo;t even need to match the number of hashes
 used to open the header. (The number of opening hashes
-determines the header level.)&lt;/p>
-&lt;h3 id="blockquotes">Blockquotes&lt;/h3>
-&lt;p>Markdown uses email-style &lt;code>&amp;gt;&lt;/code> characters for blockquoting. If you&amp;rsquo;re
+determines the header level.)&lt;/p&gt;
+&lt;h3 id=&#34;blockquotes&#34;&gt;Blockquotes&lt;/h3&gt;
+&lt;p&gt;Markdown uses email-style &lt;code&gt;&amp;gt;&lt;/code&gt; characters for blockquoting. If you&amp;rsquo;re
 familiar with quoting passages of text in an email message, then you
 know how to create a blockquote in Markdown. It looks best if you hard
-wrap the text and put a &lt;code>&amp;gt;&lt;/code> before every line:&lt;/p>
-&lt;blockquote>
-&lt;p>This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
+wrap the text and put a &lt;code&gt;&amp;gt;&lt;/code&gt; before every line:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
 consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.&lt;/p>
-&lt;p>Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-id sem consectetuer libero luctus adipiscing.&lt;/p>
-&lt;/blockquote>
-&lt;p>Markdown allows you to be lazy and only put the &lt;code>&amp;gt;&lt;/code> before the first
-line of a hard-wrapped paragraph:&lt;/p>
-&lt;blockquote>
-&lt;p>This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
+Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.&lt;/p&gt;
+&lt;p&gt;Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
+id sem consectetuer libero luctus adipiscing.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Markdown allows you to be lazy and only put the &lt;code&gt;&amp;gt;&lt;/code&gt; before the first
+line of a hard-wrapped paragraph:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
 consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.&lt;/p>
-&lt;/blockquote>
-&lt;blockquote>
-&lt;p>Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-id sem consectetuer libero luctus adipiscing.&lt;/p>
-&lt;/blockquote>
-&lt;p>Blockquotes can be nested (i.e. a blockquote-in-a-blockquote) by
-adding additional levels of &lt;code>&amp;gt;&lt;/code>:&lt;/p>
-&lt;blockquote>
-&lt;p>This is the first level of quoting.&lt;/p>
-&lt;blockquote>
-&lt;p>This is nested blockquote.&lt;/p>
-&lt;/blockquote>
-&lt;p>Back to the first level.&lt;/p>
-&lt;/blockquote>
-&lt;p>Blockquotes can contain other Markdown elements, including headers, lists,
-and code blocks:&lt;/p>
-&lt;blockquote>
-&lt;h2 id="this-is-a-header">This is a header.&lt;/h2>
-&lt;ol>
-&lt;li>This is the first list item.&lt;/li>
-&lt;li>This is the second list item.&lt;/li>
-&lt;/ol>
-&lt;p>Here&amp;rsquo;s some example code:&lt;/p>
-&lt;pre>&lt;code>return shell_exec(&amp;quot;echo $input | $markdown_script&amp;quot;);
-&lt;/code>&lt;/pre>
-&lt;/blockquote>
-&lt;p>Any decent text editor should make email-style quoting easy. For
+Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
+id sem consectetuer libero luctus adipiscing.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Blockquotes can be nested (i.e. a blockquote-in-a-blockquote) by
+adding additional levels of &lt;code&gt;&amp;gt;&lt;/code&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is the first level of quoting.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is nested blockquote.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Back to the first level.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Blockquotes can contain other Markdown elements, including headers, lists,
+and code blocks:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;h2 id=&#34;this-is-a-header&#34;&gt;This is a header.&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;This is the first list item.&lt;/li&gt;
+&lt;li&gt;This is the second list item.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Here&amp;rsquo;s some example code:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;return shell_exec(&amp;quot;echo $input | $markdown_script&amp;quot;);
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Any decent text editor should make email-style quoting easy. For
 example, with BBEdit, you can make a selection and choose Increase
-Quote Level from the Text menu.&lt;/p>
-&lt;h3 id="lists">Lists&lt;/h3>
-&lt;p>Markdown supports ordered (numbered) and unordered (bulleted) lists.&lt;/p>
-&lt;p>Unordered lists use asterisks, pluses, and hyphens &amp;ndash; interchangably
-&amp;ndash; as list markers:&lt;/p>
-&lt;ul>
-&lt;li>Red&lt;/li>
-&lt;li>Green&lt;/li>
-&lt;li>Blue&lt;/li>
-&lt;/ul>
-&lt;p>is equivalent to:&lt;/p>
-&lt;ul>
-&lt;li>Red&lt;/li>
-&lt;li>Green&lt;/li>
-&lt;li>Blue&lt;/li>
-&lt;/ul>
-&lt;p>and:&lt;/p>
-&lt;ul>
-&lt;li>Red&lt;/li>
-&lt;li>Green&lt;/li>
-&lt;li>Blue&lt;/li>
-&lt;/ul>
-&lt;p>Ordered lists use numbers followed by periods:&lt;/p>
-&lt;ol>
-&lt;li>Bird&lt;/li>
-&lt;li>McHale&lt;/li>
-&lt;li>Parish&lt;/li>
-&lt;/ol>
-&lt;p>It&amp;rsquo;s important to note that the actual numbers you use to mark the
+Quote Level from the Text menu.&lt;/p&gt;
+&lt;h3 id=&#34;lists&#34;&gt;Lists&lt;/h3&gt;
+&lt;p&gt;Markdown supports ordered (numbered) and unordered (bulleted) lists.&lt;/p&gt;
+&lt;p&gt;Unordered lists use asterisks, pluses, and hyphens &amp;ndash; interchangably
+&amp;ndash; as list markers:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Red&lt;/li&gt;
+&lt;li&gt;Green&lt;/li&gt;
+&lt;li&gt;Blue&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;is equivalent to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Red&lt;/li&gt;
+&lt;li&gt;Green&lt;/li&gt;
+&lt;li&gt;Blue&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;and:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Red&lt;/li&gt;
+&lt;li&gt;Green&lt;/li&gt;
+&lt;li&gt;Blue&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Ordered lists use numbers followed by periods:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Bird&lt;/li&gt;
+&lt;li&gt;McHale&lt;/li&gt;
+&lt;li&gt;Parish&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;It&amp;rsquo;s important to note that the actual numbers you use to mark the
 list have no effect on the HTML output Markdown produces. The HTML
-Markdown produces from the above list is:&lt;/p>
-&lt;p>If you instead wrote the list in Markdown like this:&lt;/p>
-&lt;ol>
-&lt;li>Bird&lt;/li>
-&lt;li>McHale&lt;/li>
-&lt;li>Parish&lt;/li>
-&lt;/ol>
-&lt;p>or even:&lt;/p>
-&lt;ol start="3">
-&lt;li>Bird&lt;/li>
-&lt;li>McHale&lt;/li>
-&lt;li>Parish&lt;/li>
-&lt;/ol>
-&lt;p>you&amp;rsquo;d get the exact same HTML output. The point is, if you want to,
+Markdown produces from the above list is:&lt;/p&gt;
+&lt;p&gt;If you instead wrote the list in Markdown like this:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Bird&lt;/li&gt;
+&lt;li&gt;McHale&lt;/li&gt;
+&lt;li&gt;Parish&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;or even:&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Bird&lt;/li&gt;
+&lt;li&gt;McHale&lt;/li&gt;
+&lt;li&gt;Parish&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;you&amp;rsquo;d get the exact same HTML output. The point is, if you want to,
 you can use ordinal numbers in your ordered Markdown lists, so that
 the numbers in your source match the numbers in your published HTML.
-But if you want to be lazy, you don&amp;rsquo;t have to.&lt;/p>
-&lt;p>To make lists look nice, you can wrap items with hanging indents:&lt;/p>
-&lt;ul>
-&lt;li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+But if you want to be lazy, you don&amp;rsquo;t have to.&lt;/p&gt;
+&lt;p&gt;To make lists look nice, you can wrap items with hanging indents:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
-viverra nec, fringilla in, laoreet vitae, risus.&lt;/li>
-&lt;li>Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
-Suspendisse id sem consectetuer libero luctus adipiscing.&lt;/li>
-&lt;/ul>
-&lt;p>But if you want to be lazy, you don&amp;rsquo;t have to:&lt;/p>
-&lt;ul>
-&lt;li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+viverra nec, fringilla in, laoreet vitae, risus.&lt;/li&gt;
+&lt;li&gt;Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
+Suspendisse id sem consectetuer libero luctus adipiscing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;But if you want to be lazy, you don&amp;rsquo;t have to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,
-viverra nec, fringilla in, laoreet vitae, risus.&lt;/li>
-&lt;li>Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
-Suspendisse id sem consectetuer libero luctus adipiscing.&lt;/li>
-&lt;/ul>
-&lt;p>List items may consist of multiple paragraphs. Each subsequent
+viverra nec, fringilla in, laoreet vitae, risus.&lt;/li&gt;
+&lt;li&gt;Donec sit amet nisl. Aliquam semper ipsum sit amet velit.
+Suspendisse id sem consectetuer libero luctus adipiscing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;List items may consist of multiple paragraphs. Each subsequent
 paragraph in a list item must be indented by either 4 spaces
-or one tab:&lt;/p>
-&lt;ol>
-&lt;li>
-&lt;p>This is a list item with two paragraphs. Lorem ipsum dolor
+or one tab:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;This is a list item with two paragraphs. Lorem ipsum dolor
 sit amet, consectetuer adipiscing elit. Aliquam hendrerit
-mi posuere lectus.&lt;/p>
-&lt;p>Vestibulum enim wisi, viverra nec, fringilla in, laoreet
+mi posuere lectus.&lt;/p&gt;
+&lt;p&gt;Vestibulum enim wisi, viverra nec, fringilla in, laoreet
 vitae, risus. Donec sit amet nisl. Aliquam semper ipsum
-sit amet velit.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Suspendisse id sem consectetuer libero luctus adipiscing.&lt;/p>
-&lt;/li>
-&lt;/ol>
-&lt;p>It looks nice if you indent every line of the subsequent
+sit amet velit.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Suspendisse id sem consectetuer libero luctus adipiscing.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;It looks nice if you indent every line of the subsequent
 paragraphs, but here again, Markdown will allow you to be
-lazy:&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>This is a list item with two paragraphs.&lt;/p>
-&lt;p>This is the second paragraph in the list item. You&amp;rsquo;re
+lazy:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;This is a list item with two paragraphs.&lt;/p&gt;
+&lt;p&gt;This is the second paragraph in the list item. You&amp;rsquo;re
 only required to indent the first line. Lorem ipsum dolor
-sit amet, consectetuer adipiscing elit.&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Another item in the same list.&lt;/p>
-&lt;/li>
-&lt;/ul>
-&lt;p>To put a blockquote within a list item, the blockquote&amp;rsquo;s &lt;code>&amp;gt;&lt;/code>
-delimiters need to be indented:&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>A list item with a blockquote:&lt;/p>
-&lt;blockquote>
-&lt;p>This is a blockquote
-inside a list item.&lt;/p>
-&lt;/blockquote>
-&lt;/li>
-&lt;/ul>
-&lt;p>To put a code block within a list item, the code block needs
-to be indented &lt;em>twice&lt;/em> &amp;ndash; 8 spaces or two tabs:&lt;/p>
-&lt;ul>
-&lt;li>
-&lt;p>A list item with a code block:&lt;/p>
-&lt;pre>&lt;code>&amp;lt;code goes here&amp;gt;
-&lt;/code>&lt;/pre>
-&lt;/li>
-&lt;/ul>
-&lt;h3 id="code-blocks">Code Blocks&lt;/h3>
-&lt;p>Pre-formatted code blocks are used for writing about programming or
+sit amet, consectetuer adipiscing elit.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Another item in the same list.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To put a blockquote within a list item, the blockquote&amp;rsquo;s &lt;code&gt;&amp;gt;&lt;/code&gt;
+delimiters need to be indented:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;A list item with a blockquote:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is a blockquote
+inside a list item.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;To put a code block within a list item, the code block needs
+to be indented &lt;em&gt;twice&lt;/em&gt; &amp;ndash; 8 spaces or two tabs:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;A list item with a code block:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;code goes here&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;code-blocks&#34;&gt;Code Blocks&lt;/h3&gt;
+&lt;p&gt;Pre-formatted code blocks are used for writing about programming or
 markup source code. Rather than forming normal paragraphs, the lines
 of a code block are interpreted literally. Markdown wraps a code block
-in both &lt;code>&amp;lt;pre&amp;gt;&lt;/code> and &lt;code>&amp;lt;code&amp;gt;&lt;/code> tags.&lt;/p>
-&lt;p>To produce a code block in Markdown, simply indent every line of the
-block by at least 4 spaces or 1 tab.&lt;/p>
-&lt;p>This is a normal paragraph:&lt;/p>
-&lt;pre>&lt;code>This is a code block.
-&lt;/code>&lt;/pre>
-&lt;p>Here is an example of AppleScript:&lt;/p>
-&lt;pre>&lt;code>tell application &amp;quot;Foo&amp;quot;
-beep
+in both &lt;code&gt;&amp;lt;pre&amp;gt;&lt;/code&gt; and &lt;code&gt;&amp;lt;code&amp;gt;&lt;/code&gt; tags.&lt;/p&gt;
+&lt;p&gt;To produce a code block in Markdown, simply indent every line of the
+block by at least 4 spaces or 1 tab.&lt;/p&gt;
+&lt;p&gt;This is a normal paragraph:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;This is a code block.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Here is an example of AppleScript:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;tell application &amp;quot;Foo&amp;quot;
+    beep
 end tell
-&lt;/code>&lt;/pre>
-&lt;p>A code block continues until it reaches a line that is not indented
-(or the end of the article).&lt;/p>
-&lt;p>Within a code block, ampersands (&lt;code>&amp;amp;&lt;/code>) and angle brackets (&lt;code>&amp;lt;&lt;/code> and &lt;code>&amp;gt;&lt;/code>)
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;A code block continues until it reaches a line that is not indented
+(or the end of the article).&lt;/p&gt;
+&lt;p&gt;Within a code block, ampersands (&lt;code&gt;&amp;amp;&lt;/code&gt;) and angle brackets (&lt;code&gt;&amp;lt;&lt;/code&gt; and &lt;code&gt;&amp;gt;&lt;/code&gt;)
 are automatically converted into HTML entities. This makes it very
 easy to include example HTML source code using Markdown &amp;ndash; just paste
 it and indent it, and Markdown will handle the hassle of encoding the
-ampersands and angle brackets. For example, this:&lt;/p>
-&lt;pre>&lt;code>&amp;lt;div class=&amp;quot;footer&amp;quot;&amp;gt;
-&amp;amp;copy; 2004 Foo Corporation
+ampersands and angle brackets. For example, this:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;div class=&amp;quot;footer&amp;quot;&amp;gt;
+    &amp;amp;copy; 2004 Foo Corporation
 &amp;lt;/div&amp;gt;
-&lt;/code>&lt;/pre>
-&lt;p>Regular Markdown syntax is not processed within code blocks. E.g.,
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Regular Markdown syntax is not processed within code blocks. E.g.,
 asterisks are just literal asterisks within a code block. This means
-it&amp;rsquo;s also easy to use Markdown to write about Markdown&amp;rsquo;s own syntax.&lt;/p>
-&lt;pre>&lt;code>tell application &amp;quot;Foo&amp;quot;
-beep
+it&amp;rsquo;s also easy to use Markdown to write about Markdown&amp;rsquo;s own syntax.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;tell application &amp;quot;Foo&amp;quot;
+    beep
 end tell
-&lt;/code>&lt;/pre>&lt;h2 id="span-elements">Span Elements&lt;/h2>
-&lt;h3 id="links">Links&lt;/h3>
-&lt;p>Markdown supports two style of links: &lt;em>inline&lt;/em> and &lt;em>reference&lt;/em>.&lt;/p>
-&lt;p>In both styles, the link text is delimited by [square brackets].&lt;/p>
-&lt;p>To create an inline link, use a set of regular parentheses immediately
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;span-elements&#34;&gt;Span Elements&lt;/h2&gt;
+&lt;h3 id=&#34;links&#34;&gt;Links&lt;/h3&gt;
+&lt;p&gt;Markdown supports two style of links: &lt;em&gt;inline&lt;/em&gt; and &lt;em&gt;reference&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;In both styles, the link text is delimited by [square brackets].&lt;/p&gt;
+&lt;p&gt;To create an inline link, use a set of regular parentheses immediately
 after the link text&amp;rsquo;s closing square bracket. Inside the parentheses,
-put the URL where you want the link to point, along with an &lt;em>optional&lt;/em>
-title for the link, surrounded in quotes. For example:&lt;/p>
-&lt;p>This is &lt;a href="http://example.com/">an example&lt;/a> inline link.&lt;/p>
-&lt;p>&lt;a href="http://example.net/">This link&lt;/a> has no title attribute.&lt;/p>
-&lt;h3 id="emphasis">Emphasis&lt;/h3>
-&lt;p>Markdown treats asterisks (&lt;code>*&lt;/code>) and underscores (&lt;code>_&lt;/code>) as indicators of
-emphasis. Text wrapped with one &lt;code>*&lt;/code> or &lt;code>_&lt;/code> will be wrapped with an
-HTML &lt;code>&amp;lt;em&amp;gt;&lt;/code> tag; double &lt;code>*&lt;/code>&amp;rsquo;s or &lt;code>_&lt;/code>&amp;rsquo;s will be wrapped with an HTML
-&lt;code>&amp;lt;strong&amp;gt;&lt;/code> tag. E.g., this input:&lt;/p>
-&lt;p>&lt;em>single asterisks&lt;/em>&lt;/p>
-&lt;p>&lt;em>single underscores&lt;/em>&lt;/p>
-&lt;p>&lt;strong>double asterisks&lt;/strong>&lt;/p>
-&lt;p>&lt;strong>double underscores&lt;/strong>&lt;/p>
-&lt;h3 id="code">Code&lt;/h3>
-&lt;p>To indicate a span of code, wrap it with backtick quotes (&lt;code>`&lt;/code>).
+put the URL where you want the link to point, along with an &lt;em&gt;optional&lt;/em&gt;
+title for the link, surrounded in quotes. For example:&lt;/p&gt;
+&lt;p&gt;This is &lt;a href=&#34;http://example.com/&#34;&gt;an example&lt;/a&gt; inline link.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://example.net/&#34;&gt;This link&lt;/a&gt; has no title attribute.&lt;/p&gt;
+&lt;h3 id=&#34;emphasis&#34;&gt;Emphasis&lt;/h3&gt;
+&lt;p&gt;Markdown treats asterisks (&lt;code&gt;*&lt;/code&gt;) and underscores (&lt;code&gt;_&lt;/code&gt;) as indicators of
+emphasis. Text wrapped with one &lt;code&gt;*&lt;/code&gt; or &lt;code&gt;_&lt;/code&gt; will be wrapped with an
+HTML &lt;code&gt;&amp;lt;em&amp;gt;&lt;/code&gt; tag; double &lt;code&gt;*&lt;/code&gt;&amp;rsquo;s or &lt;code&gt;_&lt;/code&gt;&amp;rsquo;s will be wrapped with an HTML
+&lt;code&gt;&amp;lt;strong&amp;gt;&lt;/code&gt; tag. E.g., this input:&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;single asterisks&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;single underscores&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;double asterisks&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;double underscores&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;code&#34;&gt;Code&lt;/h3&gt;
+&lt;p&gt;To indicate a span of code, wrap it with backtick quotes (&lt;code&gt;`&lt;/code&gt;).
 Unlike a pre-formatted code block, a code span indicates code within a
-normal paragraph. For example:&lt;/p>
-&lt;p>Use the &lt;code>printf()&lt;/code> function.&lt;/p></description></item></channel></rss>
+normal paragraph. For example:&lt;/p&gt;
+&lt;p&gt;Use the &lt;code&gt;printf()&lt;/code&gt; function.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

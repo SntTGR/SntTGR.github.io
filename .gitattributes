@@ -1,0 +1,4 @@
+* text=auto
+
+#don't convert css files due to integrity checksum failure
+*.css binary
